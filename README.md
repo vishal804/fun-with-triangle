@@ -1,0 +1,1 @@
+This app has a triangle quiz, checks if the three sides forms a traingle and calculates Area and Hypotenuse of traingle.
